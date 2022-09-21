@@ -18,11 +18,11 @@ Enlaces de la charla de nerdearla 2022
 
 ## Video de Dot CSV
 
-[Uso una IA para PROGRAMAR el JUEGO del Wordle! (y funciona) | CODEX](https://www.youtube.com/watch?v=FQqwynsDs7A)
+[![Uso una IA para PROGRAMAR el JUEGO del Wordle! (y funciona) | CODEX](https://img.youtube.com/vi/FQqwynsDs7A/maxresdefault.jpg)](https://youtu.be/FQqwynsDs7AA) 
 
 ## Variantes del Wordle
 
-[Datazo](https://www.youtube.com/watch?v=MoFpmG5sKW4)
+[![Datazo](https://img.youtube.com/vi/MoFpmG5sKW4/maxresdefault.jpg)](https://youtu.be/MoFpmG5sKW4) 
 
 ## Sitio de Codex
 
