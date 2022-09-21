@@ -14,7 +14,7 @@ Enlaces de la charla de nerdearla 2022
 
 # Charlas Nerdearla
 
-[![Una Regla para Gobernarlos a Todos](https://img.youtube.com/vi/A0ZjnGN8DIs/maxresdefault.jpg)](https://youtu.be/A0ZjnGN8DIs) 
+[![Una Regla para Gobernarlos a Todos](https://img.youtube.com/vi/A0ZjnGN8DIs/sddefault.jpg)](https://youtu.be/A0ZjnGN8DIs) 
 
 ## Juego de Wordle 
 
@@ -24,11 +24,11 @@ Enlaces de la charla de nerdearla 2022
 
 ## Video de Dot CSV
 
-[![Uso una IA para PROGRAMAR el JUEGO del Wordle! (y funciona) | CODEX](https://img.youtube.com/vi/FQqwynsDs7A/maxresdefault.jpg)](https://youtu.be/FQqwynsDs7AA) 
+[![Uso una IA para PROGRAMAR el JUEGO del Wordle! (y funciona) | CODEX](https://img.youtube.com/vi/FQqwynsDs7A/sddefault.jpg)](https://youtu.be/FQqwynsDs7AA) 
 
 ## Variantes del Wordle
 
-[![Datazo](https://img.youtube.com/vi/MoFpmG5sKW4/maxresdefault.jpg)](https://youtu.be/MoFpmG5sKW4) 
+[![Datazo](https://img.youtube.com/vi/MoFpmG5sKW4/sddefault.jpg)](https://youtu.be/MoFpmG5sKW4) 
 
 # Codigo Fuente
 
