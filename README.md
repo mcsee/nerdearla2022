@@ -19,9 +19,11 @@ Enlaces de la charla de nerdearla 2022
 
 [Uso una IA para PROGRAMAR el JUEGO del Wordle! (y funciona) | CODEX](https://www.youtube.com/watch?v=FQqwynsDs7A)
 
-# Sitio de Codex
+# Variantes del Wordle
 
-[Codex]()
+[Datazo](https://www.youtube.com/watch?v=MoFpmG5sKW4)
+
+# Sitio de Codex
 
 [Open AI](https://beta.openai.com/)
 
