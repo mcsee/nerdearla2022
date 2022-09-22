@@ -16,6 +16,9 @@ Enlaces de la charla de nerdearla 2022
 
 [![Una Regla para Gobernarlos a Todos](https://img.youtube.com/vi/A0ZjnGN8DIs/sddefault.jpg)](https://youtu.be/A0ZjnGN8DIs) 
 
+[![TDD en Sistemas Heredados](https://img.youtube.com/vi/0cc9faVOx9M/sddefault.jpg)](https://youtu.be/0cc9faVOx9M) 
+
+
 ## Juego de Wordle 
 
 ### Ingles
