@@ -4,7 +4,7 @@ Enlaces de la charla de nerdearla 2022
 
 # Charlas Previas
 
-## Articulos de la charla (ingles)
+## Artículos de la charla (inglés)
 
 [How to Create a Wordle with TDD in Javascript](https://maximilianocontieri.com/how-to-create-a-wordle-with-tdd-in-javascript)
 
@@ -12,16 +12,17 @@ Enlaces de la charla de nerdearla 2022
 
 [Step by Step Wordle Creation With Codex AI](https://maximilianocontieri.com/step-by-step-wordle-creation-with-codex-ai)
 
+[Why Most Wordle Clones are Wrong!](https://jonahlawrence.hashnode.dev/why-most-wordle-clones-are-wrong)
+
 # Charlas Nerdearla
 
 [![Una Regla para Gobernarlos a Todos](https://img.youtube.com/vi/A0ZjnGN8DIs/sddefault.jpg)](https://youtu.be/A0ZjnGN8DIs) 
 
 [![TDD en Sistemas Heredados](https://img.youtube.com/vi/0cc9faVOx9M/sddefault.jpg)](https://youtu.be/0cc9faVOx9M) 
 
-
 ## Juego de Wordle 
 
-### Ingles
+### Inglés
 
 [New York Times](https://www.nytimes.com/games/wordle/index.html)
 
@@ -33,7 +34,7 @@ Enlaces de la charla de nerdearla 2022
 
 [![Datazo](https://img.youtube.com/vi/MoFpmG5sKW4/sddefault.jpg)](https://youtu.be/MoFpmG5sKW4) 
 
-# Codigo Fuente
+# Código Fuente
 
 ## Sitio de Codex
 
