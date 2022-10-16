@@ -14,7 +14,7 @@ Enlaces de la charla de nerdearla 2022
 
 [Why Most Wordle Clones are Wrong!](https://jonahlawrence.hashnode.dev/why-most-wordle-clones-are-wrong)
 
-[How to Create a Wordle as a Centaur](https://maximilianocontieri.com/how-to-create-a-wordle-as-a-centaur]
+[How to Create a Wordle as a Centaur](https://maximilianocontieri.com/how-to-create-a-wordle-as-a-centaur)
 
 # Charlas Nerdearla
 
