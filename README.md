@@ -14,6 +14,8 @@ Enlaces de la charla de nerdearla 2022
 
 [Why Most Wordle Clones are Wrong!](https://jonahlawrence.hashnode.dev/why-most-wordle-clones-are-wrong)
 
+[How to Create a Wordle as a Centaur](https://maximilianocontieri.com/how-to-create-a-wordle-as-a-centaur]
+
 # Charlas Nerdearla
 
 [![Una Regla para Gobernarlos a Todos](https://img.youtube.com/vi/A0ZjnGN8DIs/sddefault.jpg)](https://youtu.be/A0ZjnGN8DIs) 
@@ -44,6 +46,14 @@ Enlaces de la charla de nerdearla 2022
 
 ## Codigo Fuente
 
-[Repl.it](https://replit.com/@mcsee/Wordle-TDD)
+[Repl.it Wordle TDD](https://replit.com/@mcsee/Wordle-TDD)
+
+[Repl.it Wordle Centauro](https://replit.com/@mcsee/Centaur-TDD)
+
+## Versiones funcionando
+
+[Wordle Codex (con bugs)](https://mcsee.github.io/wordle/DotCSV/)
+
+[Wordle Centauro](https://mcsee.github.io/wordle/Centaur)
 
 [GitHub Paso a Paso](https://github.com/mcsee/Software-Design-Articles/blob/main/Articles/Wordle/Step%20by%20Step%20Wordle%20Creation%20With%20Codex%20AI/readme.md)
